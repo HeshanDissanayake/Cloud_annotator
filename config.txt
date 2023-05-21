@@ -1,0 +1,9 @@
+{"SKY" : "q",
+"CLOUD" : "w",
+"THIN_CLOUD" : "e",
+"SUN" : "r",
+"ENTER" : "enter",
+"ESC" : "esc",
+"BACKS" : "backspace",
+"LEFT" : "left",
+"RIGHT" : "right"}
