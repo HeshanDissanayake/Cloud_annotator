@@ -35,6 +35,9 @@ python3 anotator.py
 ```
 
 # GUI
+
+<img src="http://url/image.png" height="60" width="60" >
+
 The image that is currently selected out of all images in the `images` directory, will we shown in the GUI preview. The cropped images view in the right top shows the image patch that will be extracted if that specific poxel is annotated with a specific label. The label count also can be seen in the GUI.
 
 Use the mouse pointer to locate the pixel and press the relevent key to annotate with the specific class. Default keys will be (Q) - sky, (W) - cloud, (E) - thinCloud, (R) - sun. Left and Right arrow keys can be used to navigate through images. Backspace can be used to undo the most recent annotation. To toggle into fine selection mode, use space bar. 
