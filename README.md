@@ -36,7 +36,7 @@ python3 anotator.py
 
 # GUI
 
-<img src="docs/overview.jpg" height="700" width="1200" >
+<img src="docs/overview.jpg" >
 
 The image that is currently selected out of all images in the `images` directory, will we shown in the GUI preview. The cropped images view in the right top shows the image patch that will be extracted if that specific poxel is annotated with a specific label. The label count also can be seen in the GUI.
 
